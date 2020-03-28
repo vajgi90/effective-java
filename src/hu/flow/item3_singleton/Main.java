@@ -18,9 +18,9 @@ public class Main {
     JimmyWithStaticFactory jimmy3 = JimmyWithStaticFactory.getInstance();
     jimmy3.sing();
     JimmyWithStaticFactory jimmy4 = JimmyWithStaticFactory.getInstance();
-    System.out.println("First hashcode: ");
+    System.out.println("Third hashcode: ");
     System.out.println(jimmy3.hashCode());
-    System.out.println("Second hashcode: ");
+    System.out.println("Fourth hashcode: ");
     System.out.println(jimmy4.hashCode());
 
     System.out.println("__________________________________-");
