@@ -1,7 +1,6 @@
-package hu.flow.item9_prefertrywithresources;
+package hu.flow.paragraph_2.item9_prefertrywithresources;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;

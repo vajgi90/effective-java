@@ -1,4 +1,4 @@
-package hu.flow.item8_avoidfinalizersandcleaners;
+package hu.flow.paragraph_2.item8_avoidfinalizersandcleaners;
 
 import java.lang.ref.Cleaner;
 

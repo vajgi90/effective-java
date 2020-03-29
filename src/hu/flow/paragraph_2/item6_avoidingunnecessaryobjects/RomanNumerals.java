@@ -1,4 +1,4 @@
-package hu.flow.item6_avoidingunnecessaryobjects;
+package hu.flow.paragraph_2.item6_avoidingunnecessaryobjects;
 
 import java.util.regex.Pattern;
 

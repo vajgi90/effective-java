@@ -1,4 +1,4 @@
-package hu.flow.item2_builderpattern;
+package hu.flow.paragraph_2.item2_builderpattern;
 
 public class Employee {
     private final String name;

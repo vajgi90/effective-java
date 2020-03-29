@@ -1,4 +1,4 @@
-package hu.flow.item4_noninstantiabilitywithprivateconstructor;
+package hu.flow.paragraph_2.item4_noninstantiabilitywithprivateconstructor;
 
 public class UtilityClass {
 private UtilityClass() {

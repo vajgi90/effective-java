@@ -1,4 +1,4 @@
-package hu.flow.item5_dependencyinjection;
+package hu.flow.paragraph_2.item5_dependencyinjection;
 
 import java.util.function.Supplier;
 

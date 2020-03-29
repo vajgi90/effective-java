@@ -1,4 +1,4 @@
-package hu.flow.item7_eliminateobsoleteobjectreferences;
+package hu.flow.paragraph_2.item7_eliminateobsoleteobjectreferences;
 
 import java.util.Arrays;
 

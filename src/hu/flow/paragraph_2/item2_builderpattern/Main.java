@@ -1,4 +1,4 @@
-package hu.flow.item2_builderpattern;
+package hu.flow.paragraph_2.item2_builderpattern;
 
 public class Main {
   public static void main(String[] args) {

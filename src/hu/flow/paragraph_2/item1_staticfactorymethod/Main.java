@@ -1,4 +1,4 @@
-package hu.flow.item1_staticfactorymethod;
+package hu.flow.paragraph_2.item1_staticfactorymethod;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package hu.flow.item3_singleton;
+package hu.flow.paragraph_2.item3_singleton;
 
 public class JimmyWithStaticFactory {
   private static final JimmyWithStaticFactory INSTANCE = new JimmyWithStaticFactory();
