@@ -1,6 +1,5 @@
-package hu.flow.paragraph_3;
+package hu.flow.paragraph_3.item10_overridingequals;
 
-import hu.flow.paragraph_3.item10_overridingequals.CaseInsensitiveString;
 import java.util.ArrayList;
 import java.util.List;
 
