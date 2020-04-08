@@ -3,12 +3,12 @@ package hu.flow.paragraph_3.item11_overridehashcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PhoneBook {
+public class PhoneNumber {
 
   private final int areaCode, prefix, lineNum;
   private int hashCode;
 
-  public PhoneBook(int areaCode, int prefix, int lineNum) {
+  public PhoneNumber(int areaCode, int prefix, int lineNum) {
     this.areaCode = areaCode;
     this.prefix = prefix;
     this.lineNum = lineNum;
@@ -19,10 +19,10 @@ public class PhoneBook {
     if (o == this) {
       return true;
     }
-    if (!(o instanceof PhoneBook)) {
+    if (!(o instanceof PhoneNumber)) {
       return false;
     }
-    PhoneBook pn = (PhoneBook) o;
+    PhoneNumber pn = (PhoneNumber) o;
     return pn.lineNum == lineNum && pn.prefix == prefix
         && pn.areaCode == areaCode;
   }
@@ -44,8 +44,8 @@ public class PhoneBook {
   }
 
   public static void main(String[] args) {
-    Map<PhoneBook, String> m = new HashMap<>();
-    m.put(new PhoneBook(707, 867, 5309), "Jenny");
-    System.out.println(m.get(new PhoneBook(707, 867, 5309)));
+    Map<PhoneNumber, String> m = new HashMap<>();
+    m.put(new PhoneNumber(707, 867, 5309), "Jenny");
+    System.out.println(m.get(new PhoneNumber(707, 867, 5309)));
   }
 }
