@@ -1,6 +1,5 @@
 package hu.flow.paragraph_4.item15_preferprivateaccessability;
 
-import hu.flow.paragraph_4.Thing;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;

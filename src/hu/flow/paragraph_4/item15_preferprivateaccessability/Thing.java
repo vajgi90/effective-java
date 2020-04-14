@@ -1,4 +1,4 @@
-package hu.flow.paragraph_4;
+package hu.flow.paragraph_4.item15_preferprivateaccessability;
 
 public class Thing {
 private String name;
